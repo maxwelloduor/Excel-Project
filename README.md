@@ -1,4 +1,4 @@
-# Excel-Project
+# Excel-Portfolio-Project
 Excel Portfolio Projects: A Journey through Advanced Excel and VBA
 This repository showcases a collection of Excel portfolio projects undertaken during my exploration of advanced Excel and VBA functionalities. These projects served as invaluable learning tools, allowing me to solidify my understanding of the software's capabilities and push its boundaries.
 
